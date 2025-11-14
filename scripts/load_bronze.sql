@@ -12,7 +12,7 @@ SET SESSION local_infile = 1;
 
 /* CRM */
 
-##TRUNCATE TABLE bronze.crm_cust_info;
+TRUNCATE TABLE bronze.crm_cust_info;
 LOAD DATA LOCAL INFILE
   'C:\\Users\\owner\\Downloads\\sql-data-warehouse-project\\sql-data-warehouse-project\\datasets\\source_crm\\cust_info.csv'
 INTO TABLE bronze.crm_cust_info
