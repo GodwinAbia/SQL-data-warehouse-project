@@ -205,14 +205,7 @@ A typical structure for this project could be:
 │   └── quality_checks_gold_data.sql                             
 │
 ├── README.md                        
-└── LICENSE```                           
-
-
-## Contact
-
-If you’d like to connect or discuss this project:
-
-- **LinkedIn:** https://www.linkedin.com/in/godwin-abia-9b8733293/
+└── LICENSE
 
 
 
