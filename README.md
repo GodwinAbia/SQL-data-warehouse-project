@@ -1,7 +1,6 @@
-# SQL-data-warehouse-project
-Building a data warehouse with MySQL (including ETL processes, data modelling and data analytics)
+# Customer & Sales Analytics SQL Data Warehouse Project (MySQL · Medallion Architecture)
 
-# Customer & Sales Analytics Data Warehouse (MySQL · Medallion Architecture)
+Building a data warehouse with MySQL (including ETL processes, data modelling and data analytics).
 
 This project is an end-to-end **SQL data warehouse** for customer and sales analytics built on **MySQL**, following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
