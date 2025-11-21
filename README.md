@@ -82,7 +82,7 @@ This layer is the **single source of truth** for consistent, well-typed operatio
 - **Gold views:**
   - `gold.dim_customers`
   - `gold.dim_products`
-  - `gold.fact_sales`
+  - `gold.facts_sales`
 
 #### Star Schema Design
 
@@ -209,6 +209,11 @@ A typical structure for this project could be:
 └── LICENSE                            
 
 
+## Contact
+
+If you’d like to connect or discuss this project:
+
+- **LinkedIn:** https://www.linkedin.com/in/godwin-abia-9b8733293/
 
 
 
