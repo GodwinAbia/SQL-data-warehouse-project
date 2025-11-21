@@ -21,7 +21,8 @@ The result is a **star-schema analytical layer** ready for **data science, data 
 - Design and build a **modern warehouse-style data model** on MySQL using **Medallion Architecture**.
 - Implement robust **ETL/ELT pipelines** from raw CSVs through to **business-ready views**.
 - Apply **data quality and validation checks** to ensure reliable downstream analytics.
-- Demonstrate practical skills that aligne with **realalistic** roles.
+- Demonstrate practical skills that align with realistic entry-level roles in **data science, data engineering, data analytics, and actuarial** work.
+
 
 ---
 
