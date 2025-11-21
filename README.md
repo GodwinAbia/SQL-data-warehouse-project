@@ -205,7 +205,7 @@ A typical structure for this project could be:
 │   └── quality_checks_gold_data.sql                             
 │
 ├── README.md                        
-└── LICENSE                            
+└── LICENSE```                           
 
 
 ## Contact
